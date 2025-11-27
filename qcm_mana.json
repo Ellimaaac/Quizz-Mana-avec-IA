@@ -1,0 +1,490 @@
+[
+    {
+        "course": 1,
+        "text": "Le management stratégique concerne :",
+        "choices": [
+            "Les actions quotidiennes",
+            "Les orientations à long terme",
+            "Le recrutement",
+            "La formation"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "La gestion des ressources humaines relève principalement :",
+        "choices": [
+            "De la Direction générale",
+            "Des cadres intermédiaires",
+            "Des actionnaires",
+            "Des syndicats"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "Selon Taylor, il existe :",
+        "choices": [
+            "Une seule meilleure manière d’exécuter une tâche",
+            "Aucune méthode optimale",
+            "Une liberté totale pour les ouvriers",
+            "Un modèle basé sur l’improvisation"
+        ],
+        "answer": 0
+    },
+    {
+        "course": 1,
+        "text": "Le taylorisme repose sur :",
+        "choices": [
+            "La standardisation des tâches",
+            "La créativité individuelle",
+            "La décentralisation",
+            "Le travail flexible"
+        ],
+        "answer": 0
+    },
+    {
+        "course": 1,
+        "text": "Le fordisme ajoute au taylorisme :",
+        "choices": [
+            "Une réduction des salaires",
+            "Le travail à la chaîne et la production de masse",
+            "La suppression des managers",
+            "La décentralisation complète"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "Sloan introduit notamment :",
+        "choices": [
+            "Le marketing digital",
+            "La décentralisation contrôlée",
+            "Le télétravail",
+            "La pyramide des besoins"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "Pour Drucker, la finalité première de l’entreprise est :",
+        "choices": [
+            "Maximiser les profits à court terme",
+            "Réduire les coûts",
+            "Créer une clientèle",
+            "Automatiser les processus"
+        ],
+        "answer": 2
+    },
+    {
+        "course": 1,
+        "text": "La bureaucratie selon Weber repose sur :",
+        "choices": [
+            "Le charisme",
+            "La tradition",
+            "Un système rationnel-légal",
+            "L'émotionnel"
+        ],
+        "answer": 2
+    },
+    {
+        "course": 1,
+        "text": "Pour Weber, l’autorité rationnelle-légale repose sur :",
+        "choices": [
+            "Les règles et procédures formelles",
+            "Le pouvoir militaire",
+            "Le charisme",
+            "La tradition familiale"
+        ],
+        "answer": 0
+    },
+
+    {
+        "course": 1,
+        "text": "L’école des relations humaines affirme que la productivité dépend :",
+        "choices": [
+            "Uniquement des conditions matérielles",
+            "Surtout des relations sociales",
+            "Du salaire seulement",
+            "Du contrôle strict"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "La pyramide de Maslow comporte :",
+        "choices": [
+            "3 niveaux",
+            "4 niveaux",
+            "5 niveaux",
+            "6 niveaux"
+        ],
+        "answer": 2
+    },
+    {
+        "course": 1,
+        "text": "Le besoin le plus bas dans la pyramide de Maslow est :",
+        "choices": [
+            "Le besoin de sécurité",
+            "Le besoin physiologique",
+            "L’estime",
+            "L’accomplissement"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "Herbert Simon introduit la notion de :",
+        "choices": [
+            "Rationalité parfaite",
+            "Rationalité limitée",
+            "Rationalité mécanique",
+            "Rationalité uniforme"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "La notion de “satisficing” signifie :",
+        "choices": [
+            "Chercher la solution parfaite",
+            "Choisir une solution satisfaisante",
+            "Optimiser toutes les options",
+            "Ne jamais décider"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "Pour Cyert et March, l’entreprise est :",
+        "choices": [
+            "Une machine optimisée",
+            "Une coalition d’intérêts",
+            "Un système fermé",
+            "Une structure militaire"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "Selon Lewin, le style de direction le plus efficace est :",
+        "choices": [
+            "Autoritaire",
+            "Laisser-faire",
+            "Démocratique",
+            "Technocratique"
+        ],
+        "answer": 2
+    },
+    {
+        "course": 1,
+        "text": "Likert considère que le style le plus efficace est :",
+        "choices": [
+            "Autoritaire",
+            "Paternaliste",
+            "Consultatif",
+            "Participatif"
+        ],
+        "answer": 3
+    },
+    {
+        "course": 1,
+        "text": "La théorie X considère que les individus :",
+        "choices": [
+            "Aiment naturellement le travail",
+            "Évitent les responsabilités",
+            "Sont créatifs",
+            "Cherchent l’autonomie"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "La théorie Y considère que les individus :",
+        "choices": [
+            "Détestent le travail",
+            "Sont passifs par nature",
+            "Cherchent des responsabilités",
+            "Doivent être contrôlés"
+        ],
+        "answer": 2
+    },
+    {
+        "course": 1,
+        "text": "Pour Argyris, il faut :",
+        "choices": [
+            "Limiter les responsabilités",
+            "Augmenter l’autonomie",
+            "Renforcer l’autorité",
+            "Éliminer la consultation"
+        ],
+        "answer": 1
+    },
+
+    {
+        "course": 1,
+        "text": "Woodward montre que la structure dépend :",
+        "choices": [
+            "Des salaires",
+            "De la technologie utilisée",
+            "De la culture nationale",
+            "Du ratio managers/employés"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "Chandler affirme que :",
+        "choices": [
+            "La structure détermine la stratégie",
+            "La stratégie détermine la structure",
+            "Structure et stratégie sont indépendantes",
+            "La structure est inutile"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "Lawrence et Lorsch introduisent :",
+        "choices": [
+            "La bureaucratie",
+            "La différenciation et l’intégration",
+            "La hiérarchie pyramidale",
+            "La théorie X/Y"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "Mintzberg propose notamment :",
+        "choices": [
+            "Les rôles du manager",
+            "La pyramide hiérarchique",
+            "Les styles de leadership",
+            "La motivation primaire"
+        ],
+        "answer": 0
+    },
+    {
+        "course": 1,
+        "text": "L’ajustement mutuel chez Mintzberg est :",
+        "choices": [
+            "Une supervision stricte",
+            "Un mode de coordination informel",
+            "Une procédure écrite",
+            "Une chaîne d’autorité"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "Katz et Kahn voient l’organisation comme :",
+        "choices": [
+            "Un système fermé",
+            "Un système ouvert",
+            "Une structure militaire",
+            "Une pyramide statique"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "Les conflits intra-rôle proviennent :",
+        "choices": [
+            "D'attentes contradictoires d’une seule source",
+            "De plusieurs rôles différents",
+            "De problèmes personnels",
+            "D’une mauvaise formation"
+        ],
+        "answer": 0
+    },
+    {
+        "course": 1,
+        "text": "Crozier introduit la notion de :",
+        "choices": [
+            "Rationalité parfaite",
+            "Pouvoir basé sur l’incertitude",
+            "Autorité charismatique",
+            "Motivation financière"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "Pour Weick, les organisations sont :",
+        "choices": [
+            "Figées",
+            "Des machines programmées",
+            "Des processus de sensemaking",
+            "Des structures militaires"
+        ],
+        "answer": 2
+    },
+
+    {
+        "course": 1,
+        "text": "La RSE repose sur la triple performance :",
+        "choices": [
+            "Économique, sociale, environnementale",
+            "Commerciale, politique, technologique",
+            "Financière, fiscale, juridique",
+            "Marketing, sociale, économique"
+        ],
+        "answer": 0
+    },
+    {
+        "course": 1,
+        "text": "ISO 26000 est une norme sur :",
+        "choices": [
+            "La qualité industrielle",
+            "La responsabilité sociétale",
+            "La comptabilité",
+            "La gestion financière"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "L’axe social de la RSE concerne :",
+        "choices": [
+            "La productivité industrielle",
+            "Les salariés et les communautés",
+            "Les émissions carbone",
+            "L’innovation technologique"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "L’axe environnemental concerne :",
+        "choices": [
+            "La formation des employés",
+            "La réduction de l’impact écologique",
+            "Le business model",
+            "Les relations clients"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "Schneider Electric vise notamment :",
+        "choices": [
+            "Augmenter les déchets électroniques",
+            "Atteindre la neutralité carbone",
+            "Supprimer les formations",
+            "Réduire les ressources renouvelables"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "La RSE permet notamment :",
+        "choices": [
+            "D’augmenter les coûts",
+            "De réduire la réputation",
+            "De créer de la valeur long terme",
+            "D’isoler l’entreprise"
+        ],
+        "answer": 2
+    },
+
+    {
+        "course": 1,
+        "text": "Le management opérationnel concerne :",
+        "choices": [
+            "La stratégie long terme",
+            "Les actions court terme",
+            "La structure légale",
+            "La politique nationale"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "Selon le cours, les organisations modernes évoluent :",
+        "choices": [
+            "De manière linéaire",
+            "De façon complexe et non linéaire",
+            "Sans changement majeur",
+            "Toujours selon le même modèle"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "La gestion des compétences remplace :",
+        "choices": [
+            "La formation",
+            "La gestion de carrière traditionnelle",
+            "Le management opérationnel",
+            "Le marketing interne"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "Dans le modèle de Mintzberg, la standardisation des résultats signifie :",
+        "choices": [
+            "Que chacun travaille comme il veut",
+            "Que les objectifs sont formalisés",
+            "Qu’il n’y a pas de règles",
+            "Qu’il n’y a pas de supervision"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "Dans la théorie des rôles de Katz et Kahn, le conflit inter-rôle provient :",
+        "choices": [
+            "D'une seule source",
+            "De plusieurs rôles incompatibles",
+            "De l’absence de rôle",
+            "D’un problème psychologique"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "Dans la RSE, la performance économique concerne :",
+        "choices": [
+            "La rentabilité durable",
+            "L’environnement",
+            "Les salaires",
+            "Le marketing"
+        ],
+        "answer": 0
+    },
+    {
+        "course": 1,
+        "text": "Le modèle bureaucratique vise :",
+        "choices": [
+            "La flexibilité maximale",
+            "La formalisation et la stabilité",
+            "La créativité permanente",
+            "Le changement constant"
+        ],
+        "answer": 1
+    },
+    {
+        "course": 1,
+        "text": "Dans la théorie Y, l’imagination et la créativité sont :",
+        "choices": [
+            "Rares",
+            "Réservées aux managers",
+            "Largement présentes dans la population",
+            "Inexistantes"
+        ],
+        "answer": 2
+    },
+    {
+        "course": 1,
+        "text": "Les jeux de pouvoir chez Crozier proviennent :",
+        "choices": [
+            "De l’autorité hiérarchique stricte",
+            "Des zones d’incertitude",
+            "Des règles officielles",
+            "Des compétences techniques"
+        ],
+        "answer": 1
+    }
+]
