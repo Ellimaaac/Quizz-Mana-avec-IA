@@ -10,7 +10,7 @@ import json
 import random
 
 import streamlit as st
-from openai import OpenAI  # client compatible Groq
+from openai import OpenAI
 
 # ================== CLIENT GROQ ==================
 
@@ -260,3 +260,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
