@@ -94,7 +94,7 @@ La bonne réponse est : {correct_index+1}. {correct_answer}
 
     try:
         response = client.chat.completions.create(
-            model="llama3-8b-8192",  # modèle Groq léger, rapide et dispo partout
+            model="llama-3.3-70b-versatile",  # modèle Groq léger, rapide et dispo partout
             messages=[{"role": "user", "content": prompt}],
         )
         return response.choices[0].message.content.strip()
@@ -260,3 +260,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
